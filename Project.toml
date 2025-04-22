@@ -1,0 +1,13 @@
+name = "ParetoGAN"
+uuid = "34689656-bdf1-4d6b-82d7-4c854c21bc51"
+authors = ["José Manuel de Frutos Porras"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.11"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
